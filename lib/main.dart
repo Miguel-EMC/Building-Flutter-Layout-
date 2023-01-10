@@ -76,6 +76,7 @@ class MyApp extends StatelessWidget {
         ),
         body: ListView(
           children: [
+            Image.asset('images/tiger.jpg'),
             titleSection,
              buttonSection,
              textSection,
